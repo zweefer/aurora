@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+   
+
+    <element name="Felis" type="Race" source="Jason Wright" id="ID_BEYOND_RACE_FELIS">
+        <description>
+            <h4>Short And Furry</h4>
+            <p>Felis are often underestimated due to their short stature and cuddly demeanor. Felis come in all shapes and colors. They can grow to be up to 3 ft tall and often vary in their weight due to differing habits. Felis range from the fiery gingers to the cool, calculating cerulean blues. The sub species of Felis all have their own quirks, but as a species they are known as intelligent and gifted adventurers. Each breed of Felis has their own Clan of which they are extremely proud. This often leads to scuffles and contests for pride of oneself and of Clan. There has always been a healthy rivalry among the different breeds of Felis. Some rivalries end in brawls and others end with shame and loss of respect. Often, individuals will be challenged to single combat for their honor, and on the rarest of occasions, the honor of an entire clan.</p>
+            <h4>Nine Lives Short Lived</h4>
+            <p>Felis live up to 135 years of age. It is whispered that they possess nine lives and, by some forgotten curse, they burn through each life every 15 years. This has led many Felis adventurers to set out on a quest to seek an end to their curse and restore the race's full life span. With their cursed nine lives the Felis travel alone with an eagerness to get the most from life which drives them to move through it rarely forming strong attachments to the many non-Felis with which they become acquainted. Felis live their lives with a strong sense of magic. Most Felis are able to sniff the wizard in a room full of grey bearded, pointy hat wearing men. Other races often construe the Felis' innate magic sense to their origins as Wizard's familiars, used as conduits of magical energy to aid in spell casting.
+</p>
+            <h4>The Sunrock Clans</h4>
+            <p>When the original Felis Elders formed their various clans, they decided the race as a whole needed a suitable land they could call home. Each of the Elders sent out at least one adventurer to seek such a home, and the mighty Shorthair named Max was the one to find the Great Sunrocks. These massive stone formations soak up and retain the Sun's heat to a remarkable degree, remaining warm to the touch day or night, even in Winter. Sleeping or meditating on these rocks is a great comfort to all Felis who have the opportunity to partake of it. Since there is only so much living space in Sunrock Village, the right or an invitation to visit, much less live permanently, with the Elders who reside there must be earned. Each clan is overseen by an Elder who resides in Sunrock village. These Elders have the last say in conflicts between clans and the species in general, but events hardly get that far. </p>
+	 	 <h4>Clan Hierarchy</h4>
+            <p>The Felis clans are overseen by a clan elder who is elected by the clan as a whole. The elder doesn't have to be elderly to achieve the title, but those who take the mantle young are seen as inexperienced. The Clan Elders usually reside in Sunrock Village in order to facilitate peace-keeping and coordination between the Clans. Ranked below the Elders, in name only, are the Clan Mothers. Clan Mothers are those who manage the Clan's home affairs, organize quests, assign apprenticeships, and just about everything else. While Elders are elected, Clan Mothers will choose a promising child and tutor them personally. After the Clan Mother passes the chosen child will take up the role.
+		 <h4>Overcoming Underestimation</h4>
+            <p>Felis are among the shortest races and are often overlooked for their small stature. Their domesticated ancestor, the house cat, is sometimes what all other races will see when dealing with a Felis. Adventuring Felis have learned to use this to their advantage, often sweet talking the tall folk into increasing their fee and rewards. But this talent isn't just limited to deal-making; in combat, foes will often disregard and even turn their backs to a Felis, providing an opening to strike.</p>
+		 <h4>Curious Explorers</h4>
+            <p>All Felis share a love of exploring - their curiosity about the world is what drives them onward. They are constantly looking for new technologies, spells, and rare legendary items to further their clan's honor.</p>
+</p>
+		 <h4>Felis Names</h4>
+            <p>Felis are given their names by their clan mother. A clan mother often determines the name by divining the future of a kitten. If the future tells of the child doing great deeds a heroic name is chosen, if not, a standard house name is choosen. </p>
+             <p>
+                <b>Male: </b>Al, Bree, Chester, Edgar, Fiddle, Jester, Jack, Luke, Luther, Max, Maru, Mew, Milo, Minka, Oliver, Oscar, Rufus, Smokey, Simon<br/>
+                <b>Female: </b>Alice, Angel, Ash, Charlotte, Claire, Curie, Chloe, Daisy, Eva, Lucy, Millie, Mimi, Misty, Rosie, Ruby, Sasha, Susi, Tasha, Trixie Clan Names: Cerulean, Claw, Maine, White Paw, Shadow, Forest, Chant, Hex, Iron Tooth<br/>
+			<b>Heroic: </b>Azreal, Leo, Felix, Ozfell, Proudfoot, Patches, Salem, Theo, Cecil<br/>
+            </p>
+		 <h4>Felis Lineiage</h4>
+		 <p> Some clans boast of their pureblood lineage, but others are mixed. Choose one of the following lineages to determine what Felis Favor you gain at birth. 
+        </p>
+<p>
+<b>Common Bond.</b> Tabby Felis are among the most common of all the lineages. As such they know more about common social spheres. You increase your Wisdom score by 1. .</p>
+<p>
+<b>Noble Leadership.</b> With fur pure as the whitest snow, those Felis born without color are often seen as the noblest of the Felis. When of age they take up leadership roles in their clans. Once per long rest you can instill allies with a sense of vigor. Those within a 15' range gain temporary Hit Points equal to your Charisma modifier for 8 hours..</p>
+<p>
+<b>Fiery Nature.</b> Hot tempered and quick to lash out with claws these ginger furred Felis are furious in field of battle. Increase your Strength score by 1..</p>
+<p>
+<b>Hunters Sense.</b> Masters of tracking, those with brown fur are destined to hunt. You gain proficiency in the Survival skill..</p>
+<p>
+<b>Good Fortune.</b> Calico fur is the rarest of all Felis lineages. The legends say that all of the black furred Felis' luck went to the calico. Once per day when you roll an attack roll, ability check, or saving throw you can choose to reroll. You must accept the results of the reroll..</p>
+<p>
+<b>Arcane Adept.</b> Starry eyed and fur of a blue-night sky it is said that these Felis are connected to the Astral Sea. Increase your Intelligence score by 1..</p>
+<p>
+<b>Night Stalker.</b> Grey is the perfect color to blend into ones surroundings. Felis with grey fur are able to hide very easily. You gain proficency in the Stealth skill..</p>
+<p>
+<b>Unlucky.</b> Typically those born of the this lineage are of pure black fur and carry a natural unluckiness wherever they go. Once per long rest as a reaction you may cast your bad luck onto an enemy, forcing them to roll with disadvantage on one attack or ability saving throw.</p>
+
+
+            <h4>Felis Traits</h4>
+            <p>Your Felis character will share a few common traits and attributes with all other Felis.</p>
+            <p>
+                <span class="feature">Ability Score Increase.</span>Your Charisma score increases by 2. <br />
+                <span class="feature">Age.</span> Felis are considered full adults when they reach the age of 10.
+<br />
+                <span class="feature">Alignment.</span>The majority of Felis are neutral and lean towards being adventurers or quest seekers. A Felis will always inspect the interesting and seek out the unknown.<br />
+                <span class="feature">Size.</span>Felis average between 2-3 feet tall and weigh up to 30 pounds. Your size is Small.<br />
+                <span class="feature">Speed.</span>Your base walking speed is 25 feet.<br />
+                <span class="feature">Claws.</span>Due to your claws you have a climb speed of 15 feet. You can also use your claws as a weapon. When you land an attack you deal 1d4 + Strength modifier as slashing damage as an unarmed attack.<br />
+			<span class="feature">Darkvision.</span>Being a Felis you are able to see in the dim light up to 60 feet as if it were bright light, and darkness beyond that as dim light..<br />
+                <span class="feature">Purrsuasion.</span>Felis use their short and cute nature to their advantage as much as they can. Once per long rest roll with Advantage on your first Persuasion attempt on a friendly creature.<br />
+                <span class="feature">Curious Nature.</span>Being an inquisitive Felis you have proficiency in the Investigation skill.<br />
+                <span class="feature">Felis Lineage.</span>Choose one of the lineages. Your lineage determines your Felis Favor.<br />
+                <span class="feature">Languages.</span>You can speak, read, and write Common and One other language.<br />
+            </p>
+        </description>
+        <setters>
+            <set name="names" type="male">Al, Bree, Chester, Edgar, Fiddle, Jester, Jack, Luke, Luther, Max, Maru, Mew, Milo, Minka, Oliver, Oscar, Rufus, Smokey, Simon</set>
+            <set name="names" type="female">Alice, Angel, Ash, Charlotte, Claire, Curie, Chloe, Daisy, Eva, Lucy, Millie, Mimi, Misty, Rosie, Ruby, Sasha, Susi, Tasha, Trixie Clan Names: Cerulean, Claw, Maine, White Paw, Shadow, Forest, Chant, Hex, Iron Tooth</set>
+		 <set name="names" type="heroic">Azreal, Leo, Felix, Ozfell, Proudfoot, Patches, Salem, Theo, Cecil</set>
+
+            <set name="names-format">{{name}}</set>
+            <set name="height" modifier="1d2+1">2'6"</set>
+            <set name="weight" modifier="1">11</set>
+            <set name="skin" modifier="1">Furry</set>
+        </setters>
+        <sheet display="false">
+            <description>Felis are cats. plain and simple. A sentient housecat.</description>
+        </sheet>
+	   <sheet display="true">
+    <description>You can use your claws as a weapon. When you land an attack you deal 1d4 + Strength modifier as slashing damage as an unarmed attack.</description>
+</sheet>
+        <rules>
+            <stat name="charisma" value="2" />
+            <grant type="Size" id="ID_SIZE_SMALL" />
+            <stat name="innate speed" value="25" bonus="base" />
+            <grant type="Racial Trait" id="ID_BEYOND_RACIAL_TRAIT_FELIS_PURRSUASION" />
+            <grant type="Racial Trait" id="ID_BEYOND_RACIAL_TRAIT_FELIS_CURIOUS_NATURE" />
+            <grant type="Racial Trait" id="ID_BEYOND_RACIAL_TRAIT_FELIS_CLAWS" />
+            <grant type="Racial Trait" id="ID_BEYOND_RACIAL_TRAIT_FELIS_LINEAGE" />
+            <grant type="Vision" id="ID_VISION_DARKVISION" />
+            <grant type="Language" id="ID_LANGUAGE_COMMON" />
+            <select type="Language" name="Language (Felis)" supports="Standard||Exotic" />
+        </rules>
+    </element>
+        <element name="Purrsuation" type="Racial Trait" source="D&amp;D Beyond" id="ID_BEYOND_RACIAL_TRAIT_FELIS_PURRSUASION">
+        <description>
+            <p>Felis use their short and cute nature to their advantage as much as they can. Once per long rest roll with Advantage on your first Persuasion attempt on a friendly creature.</p>
+        </description>
+        <sheet>
+            <description>Once per long rest, roll with Advantage on 1st persuation attempt on friendly creature</description>
+        </sheet>
+    </element>
+    <element name="Curious Nature" type="Racial Trait" source="D&amp;D Beyond" id="ID_BEYOND_RACIAL_TRAIT_FELIS_CURIOUS_NATURE">
+        <description>
+            <p>Being an inquisitive Felis you have proficiency in the Investigation skill.</p>
+        </description>
+        <sheet display="false">
+			<description>You have proficiency in the Investigation skill.</description>
+		</sheet>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_INVESTIGATION" />
+		</rules>
+    </element>
+   	<element name="Claws" type="Racial Trait" source="D&amp;D Beyond" id="ID_BEYOND_RACIAL_TRAIT_FELIS_CLAWS">
+		<description>
+			<p>Because of your claws, you have a climbing speed of 15 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</p>
+		</description>
+		<sheet>
+			<description>Because of your claws, you have a climbing speed of 15 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4+{{strength:modifier}}, instead of the bludgeoning damage normal for an unarmed strike.</description>
+		</sheet>
+		<rules>
+			<stat name="innate speed:climb" value="15" bonus="base" />
+		</rules>
+	</element>
+
+    <element name="Felis Lineage" type="Racial Trait" source="D&amp;D Beyond" id="ID_BEYOND_RACIAL_TRAIT_FELIS_LINEAGE">
+		<description>
+			<p>Some clans boast of their pureblood lineage, but others are mixed. Choose one of the following lineages to determine what Felis Favor you gain at birth.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<select type="Sub Race" name="Felis Subrace" supports="Felis" />
+		</rules>
+	</element>
+
+	<element name="Common Bond Felis." type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_COMMON_BOND">
+		<supports>Felis</supports>
+		<description>
+			<p>Tabby Felis are among the most common of all the lineages. As such they know more about common social spheres. You increase your Wisdom score by 1.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Wisdom score increases by 1.</p>
+		</description>
+		<setters>
+             <set name="hair" modifier="1">Tabby</set>
+        </setters>
+        <rules>
+			<stat name="wisdom" value="1" />
+		</rules>
+	</element> 	
+	
+    <element name="Noble Leadership Felis." type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_NOBLE_LEADERSHIP">
+		<supports>Felis</supports>
+		<description>
+			<p>With fur pure as the whitest snow, those Felis born without color are often seen as the noblest of the Felis. When of age they take up leadership roles in their clans. Once per long rest you can instill allies with a sense of vigor. Those within a 15’ range gain temporary Hit Points equal to your Charisma modifier for 8 hours.</p>
+		    <p class="indent"><strong><em>New Ability</em></strong> Grant others temporary Hit Points.</p>
+        </description>
+		<sheet>
+			<description>Once per long rest, those within a 15’ range gain temporary Hit Points equal to your Charisma modifier for 8 hours.</description>
+		</sheet>
+        <setters>
+             <set name="hair" modifier="1">White</set>
+        </setters>
+     	</element> 	
+
+    <element name="Firey Nature Felis." type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_FIREY_NATURE">
+		<supports>Felis</supports>
+		<description>
+			<p>Hot tempered and quick to lash out with claws these ginger furred Felis are furious in field of battle. Increase your Strength score by 1</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Strength score increases by 1.</p>
+		</description>
+		<setters>
+             <set name="hair" modifier="1">Ginger</set>
+        </setters>
+        <rules>
+			<stat name="strength" value="1" />
+		</rules>
+	</element> 	
+
+    <element name="Hunters Sense Felis" type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_HUNTERS_SENSE">
+		<supports>Felis</supports>
+		<description>
+			<p>Masters of tracking, those with brown fur are destined to hunt. You gain proficiency in the Survival skill.</p>
+			<p class="indent"><strong><em>Proficiency Granted.</em></strong> You gain proficiency in Survival.</p>
+		</description>
+        <setters>
+             <set name="hair" modifier="1">Brown</set>
+        </setters>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_SURVIVAL" />
+		</rules>
+	</element> 	
+
+    <element name="Good Fortune Felis" type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_GOOD_FORTUNE">
+		<supports>Felis</supports>
+		<description>
+			<p>Calico fur is the rarest of all Felis lineages. The legends say that all of the black furred Felis’ luck went to the calico. Once per day when you roll an attack roll, ability check, or saving throw you can choose to reroll. You must accept the results of the reroll.</p>
+			<p class="indent"><strong><em>New Ability</em></strong> Reroll once per day</p>
+		</description>
+        <sheet>
+			<description>Once per day when you roll an attack roll, ability check, or saving throw you can choose to reroll. You must accept the results of the reroll.</description>
+		</sheet>
+        <setters>
+             <set name="hair" modifier="1">Calico</set>
+        </setters>
+	</element> 	
+
+    <element name="Arcane Adept Felis" type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_ARCANE_ADEPT">
+		<supports>Felis</supports>
+		<description>
+			<p>Starry eyed and fur of a blue-night sky it is said that these Felis are connected to the Astral Sea. Increase your Intelligence score by 1.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Intelligence score increases by 1.</p>
+		</description>
+        <setters>
+             <set name="hair" modifier="1">Blue-night Sky</set>
+        </setters>
+		<rules>
+			<stat name="intelligence" value="1" />
+		</rules>
+	</element> 	
+
+    <element name="Night Stalker Felis" type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_NIGHT_STALKER">
+		<supports>Felis</supports>
+		<description>
+			<p>Grey is the perfect color to blend into ones surroundings. Felis with grey fur are able to hide very easily. You gain proficency in the Stealth skill.</p>
+		    <p class="indent"><strong><em>Proficiency Granted.</em></strong> You gain proficiency in Stealth.</p>
+		</description>
+        <setters>
+             <set name="hair" modifier="1">Grey</set>
+        </setters>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_STEALTH" />
+		</rules>
+	</element> 	
+
+    <element name="Unlucky Felis." type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_UNLUCKY">
+		<supports>Felis</supports>
+		<description>
+			<p>Typically those born of the this lineage are of pure black fur and carry a natural unluckiness wherever they go. Once per long rest as a reaction you may cast your bad luck onto an enemy, forcing them to roll with disadvantage on one attack or ability saving throw.</p>
+			<p class="indent"><strong><em>New Ability</em></strong> Once per day, force an enemy to roll woth disadvantage.</p>
+		</description>
+        <sheet>
+			<description>Once per day, force an enemy to roll with disadvantage.</description>
+		</sheet>
+        <setters>
+             <set name="hair" modifier="1">Black</set>
+        </setters>
+	</element> 	
+</elements>
