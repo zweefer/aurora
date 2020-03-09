@@ -2,11 +2,11 @@
 <index>
   <info>
     <update version="1.0">
-      <file name="zweefer.index" url="https://github.com/zweefer/aurora/zweefer.index" />
+      <file name="zweefer.index" url="https://raw.githubusercontent.com/zweefer/master/zweefer.index" />
     </update>
   </info>
   <files>
     <!-- Races -->
-      <file name="race_felis.xml" url="https://github.com/zweefer/aurora/race_felis.xml" />
+      <file name="race_felis.xml" url="https://raw.githubusercontent.com/zweefer/master/race_felis.xml" />
   </files>
 </index>
