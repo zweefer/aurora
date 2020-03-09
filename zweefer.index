@@ -7,6 +7,6 @@
   </info>
   <files>
     <!-- Races -->
-      <file name="race_felis.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race_felis.xml" />
+      <file name="race_felis.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-felis.xml" />
   </files>
 </index>
