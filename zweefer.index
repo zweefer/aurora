@@ -8,5 +8,6 @@
   <files>
     <!-- Races -->
       <file name="race_felis.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-felis.xml" />
-  </files>
+      <file name="race_mystic-multi.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-mystic-multi.xml.xml" />
+       </files>
 </index>
