@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
     <info>
-		<name>zweefer</name>
-		<description>Additional homebrew and tweaks for Aurora.</description>
-		<author url="https://www.reddit.com/r/DnDBehindTheScreen/">Zweefer</author>
-		<update version="1.0">
-	    <file name="zweefer.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/zweefer.index" />
-    </update>
+		    <name>zweefer</name>
+	  	  <description>Additional homebrew and tweaks for Aurora.</description>
+		    <author url="https://www.reddit.com/r/DnDBehindTheScreen/">Zweefer</author>
+	  	  <update version="1.0">
+	          <file name="zweefer.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/zweefer.index" />
+        </update>
     </info>
-  
     <files>
-      <!-- Races -->
-      <file name="race-felis.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-felis.xml" />
-      <!-- Classes -->
-      <file name="race-mystic-multi.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-mystic-multi.xml" />
+        <!-- Races -->
+        <file name="race-felis.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-felis.xml" />
+
+        <!-- Classes -->
+        <file name="race-mystic-multi.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-mystic-multi.xml" />
     </files>
 </index>
