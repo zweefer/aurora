@@ -8,6 +8,7 @@
   <files>
     <!-- Races -->
       <file name="race-felis.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-felis.xml" />
+    <!-- Classes -->
       <file name="race-mystic-multi.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-mystic-multi.xml.xml" />
        </files>
 </index>
