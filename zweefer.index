@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
-    <info>
-		<update version="0.0.1">
-			<file name="zweefer.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/zweefer.index" />
-		</update>
-	</info>
-    <files>
-        <!-- Races -->
-        <file name="race-felis.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-felis.xml" />
-
-        <!-- Classes -->
-        <file name="race-mystic-multi.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-mystic-multi.xml" />
-  
-        <!-- Sources -->
-	    	<file name="sources.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/sources.xml" />
-
-    </files>
+  <info>
+    <update version="1.0">
+      <file name="zweefer.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/zweefer.index" />
+    </update>
+  </info>
+  <files>
+    <!-- Races -->
+      <file name="race_felis.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-felis.xml" />
+  </files>
 </index>
