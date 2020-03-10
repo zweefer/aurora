@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
-   
+   <info>
+   </info>
     <files>
         <!-- Races -->
         <file name="race-felis.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-felis.xml" />
