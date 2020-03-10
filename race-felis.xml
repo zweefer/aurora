@@ -6,7 +6,8 @@
         <author url="https://imgur.com/gallery/GzuvdIM">D&amp;D Wiki</author>
         <update version="0.0.3">
             <file name="race-felis.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-felis.xml" />
-        </update>   
+        </update>
+</info>   
 <element name="Felis" type="Source" source="Jason Wright" id="ID_JWRIGHT_RACE_FELIS">
 		<description>
 			<p>The mystic class, a master of psionics, has arrived in its entirety for you to try in your D&amp;D games. Thanks to your playtest feedback on the class’s previous two versions, the class now goes to level 20, has six subclasses, and can choose from many new psionic disciplines and talents.</p>
