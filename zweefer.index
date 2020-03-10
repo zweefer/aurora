@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
-  <info>
-    <update version="1.0">
-      <file name="zweefer.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/zweefer.index" />
-    </update>
-  </info>
-  <files>
-    <!-- Races -->
-      <file name="race_felis.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-felis.xml" />
-  </files>
+	<info>
+		<update version="0.0.1">
+			<file name="zweefer.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/zweefer.index" />
+		</update>
+	</info>
+	<files>
+		<file name="source.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/source.xml" />
+		
+		<!-- race stuff -->
+		<file name="races.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/races.index"/>
+		<file name="subraces.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/subraces.index"/>
+    
+		<!-- class stuff -->
+		<file name="classes.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/classes.index"/>
+		<file name="archetypes.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/archetypes.index"/>
+		
+		<!-- backgrounds -->
+		<file name="backgrounds.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/backgrounds.index"/>
+
+		<!-- spells -->
+		<file name="spells.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora//spells.index"/>
+    
+		<!-- equipment -->
+		<file name="equipment.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/equipment.index"/>
+
+		<!-- feats -->
+		<file name="feats.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/feats.index"/>
+
+		<!-- other -->
+		<file name="other.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/other.index"/>
+
+	</files>
 </index>

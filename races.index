@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+    <info>
+	<name>New Races</name>
+	<update version="0.0.1">
+		<file name="races.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/races.index"/>
+	</update>
+    </info>
+    <files>
+        <file name="race-felis.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-felis.xml" />
+    </files>
+</index>

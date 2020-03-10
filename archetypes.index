@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+    <info>
+	<name>New Archetypes</name>
+	<update version="0.0.1">
+		<file name="archetypes.index" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/archetypes.index"/>
+	</update>
+    </info>
+    <files>
+        <!-- Files go here -->
+    </files>
+</index>
