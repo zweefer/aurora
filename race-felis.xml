@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 <info>
-        <name>Felis Race</name>
+        <name>Jason Wright</name>
         <description>5e homebrew</description>
-        <author url="https://imgur.com/gallery/GzuvdIM">D&amp;D Wiki</author>
-        <update version="0.0.4">
+        <author url="https://imgur.com/gallery/GzuvdIM">Jason Wright</author>
+        <update version="0.0.5">
             <file name="race-felis.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-felis.xml" />
         </update>
 </info>   
-<element name="Felis" type="Source" source="Jason Wright" id="ID_JASONWRIGHT_RACE_FELIS">
+<element name="Felis Race" type="Source" source="Jason Wright" id="ID_JASONWRIGHT_RACE_FELIS">
 		<description>
 			<p>The Felis Race, by Jason Wright</p>
 		</description>
