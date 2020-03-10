@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
-   
+<info>
+        <name>Felis Race</name>
+        <description>5e homebrew</description>
+        <author url="https://imgur.com/gallery/GzuvdIM">D&amp;D Wiki</author>
+        <update version="0.0.3">
+            <file name="race-felis.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-felis.xml" />
+        </update>   
+<element name="Felis" type="Source" source="Jason Wright" id="ID_JWRIGHT_RACE_FELIS">
+		<description>
+			<p>The mystic class, a master of psionics, has arrived in its entirety for you to try in your D&amp;D games. Thanks to your playtest feedback on the class’s previous two versions, the class now goes to level 20, has six subclasses, and can choose from many new psionic disciplines and talents.</p>
+		</description>
+		<setters>
+			<set name="abbreviation">Felis</set>
+			<set name="url">https://imgur.com/gallery/GzuvdIM</set>
+			<set name="author" abbreviation="Jason Wright" url="https://imgur.com/gallery/GzuvdIM">Felis Race</set>
+			<set name="playtest">true</set>
+			<set name="release">1.2</set>
+		</setters>
+	</element>
 
-    <element name="Felis" type="Race" source="Jason Wright" id="ID_BEYOND_RACE_FELIS">
+    <element name="Felis" type="Race" source="Jason Wright" id="ID_JWRIGHT_RACE_FELIS">
         <description>
             <h4>Short And Furry</h4>
             <p>Felis are often underestimated due to their short stature and cuddly demeanor. Felis come in all shapes and colors. They can grow to be up to 3 ft tall and often vary in their weight due to differing habits. Felis range from the fiery gingers to the cool, calculating cerulean blues. The sub species of Felis all have their own quirks, but as a species they are known as intelligent and gifted adventurers. Each breed of Felis has their own Clan of which they are extremely proud. This often leads to scuffles and contests for pride of oneself and of Clan. There has always been a healthy rivalry among the different breeds of Felis. Some rivalries end in brawls and others end with shame and loss of respect. Often, individuals will be challenged to single combat for their honor, and on the rarest of occasions, the honor of an entire clan.</p>
@@ -83,16 +101,16 @@
             <stat name="charisma" value="2" />
             <grant type="Size" id="ID_SIZE_SMALL" />
             <stat name="innate speed" value="25" bonus="base" />
-            <grant type="Racial Trait" id="ID_BEYOND_RACIAL_TRAIT_FELIS_PURRSUASION" />
-            <grant type="Racial Trait" id="ID_BEYOND_RACIAL_TRAIT_FELIS_CURIOUS_NATURE" />
-            <grant type="Racial Trait" id="ID_BEYOND_RACIAL_TRAIT_FELIS_CLAWS" />
-            <grant type="Racial Trait" id="ID_BEYOND_RACIAL_TRAIT_FELIS_LINEAGE" />
+            <grant type="Racial Trait" id="ID_JWRIGHT_RACIAL_TRAIT_FELIS_PURRSUASION" />
+            <grant type="Racial Trait" id="ID_JWRIGHT_RACIAL_TRAIT_FELIS_CURIOUS_NATURE" />
+            <grant type="Racial Trait" id="ID_JWRIGHT_RACIAL_TRAIT_FELIS_CLAWS" />
+            <grant type="Racial Trait" id="ID_JWRIGHT_RACIAL_TRAIT_FELIS_LINEAGE" />
             <grant type="Vision" id="ID_VISION_DARKVISION" />
             <grant type="Language" id="ID_LANGUAGE_COMMON" />
             <select type="Language" name="Language (Felis)" supports="Standard||Exotic" />
         </rules>
     </element>
-        <element name="Purrsuation" type="Racial Trait" source="D&amp;D Beyond" id="ID_BEYOND_RACIAL_TRAIT_FELIS_PURRSUASION">
+        <element name="Purrsuation" type="Racial Trait" source="Jason Wright" id="ID_JWRIGHT_RACIAL_TRAIT_FELIS_PURRSUASION">
         <description>
             <p>Felis use their short and cute nature to their advantage as much as they can. Once per long rest roll with Advantage on your first Persuasion attempt on a friendly creature.</p>
         </description>
@@ -100,7 +118,7 @@
             <description>Once per long rest, roll with Advantage on 1st persuation attempt on friendly creature</description>
         </sheet>
     </element>
-    <element name="Curious Nature" type="Racial Trait" source="D&amp;D Beyond" id="ID_BEYOND_RACIAL_TRAIT_FELIS_CURIOUS_NATURE">
+    <element name="Curious Nature" type="Racial Trait" source="Jason Wright" id="ID_JWRIGHT_RACIAL_TRAIT_FELIS_CURIOUS_NATURE">
         <description>
             <p>Being an inquisitive Felis you have proficiency in the Investigation skill.</p>
         </description>
@@ -111,7 +129,7 @@
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_INVESTIGATION" />
 		</rules>
     </element>
-   	<element name="Claws" type="Racial Trait" source="D&amp;D Beyond" id="ID_BEYOND_RACIAL_TRAIT_FELIS_CLAWS">
+   	<element name="Claws" type="Racial Trait" source="Jason Wright" id="ID_JWRIGHT_RACIAL_TRAIT_FELIS_CLAWS">
 		<description>
 			<p>Because of your claws, you have a climbing speed of 15 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</p>
 		</description>
@@ -123,7 +141,7 @@
 		</rules>
 	</element>
 
-    <element name="Felis Lineage" type="Racial Trait" source="D&amp;D Beyond" id="ID_BEYOND_RACIAL_TRAIT_FELIS_LINEAGE">
+    <element name="Felis Lineage" type="Racial Trait" source="Jason Wright" id="ID_JWRIGHT_RACIAL_TRAIT_FELIS_LINEAGE">
 		<description>
 			<p>Some clans boast of their pureblood lineage, but others are mixed. Choose one of the following lineages to determine what Felis Favor you gain at birth.</p>
 		</description>
@@ -133,7 +151,7 @@
 		</rules>
 	</element>
 
-	<element name="Common Bond Felis." type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_COMMON_BOND">
+	<element name="Common Bond Felis." type="Sub Race" source="Jason Wright" id="ID_SUB_RACE_COMMON_BOND">
 		<supports>Felis</supports>
 		<description>
 			<p>Tabby Felis are among the most common of all the lineages. As such they know more about common social spheres. You increase your Wisdom score by 1.</p>
@@ -147,7 +165,7 @@
 		</rules>
 	</element> 	
 	
-    <element name="Noble Leadership Felis." type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_NOBLE_LEADERSHIP">
+    <element name="Noble Leadership Felis." type="Sub Race" source="Jason Wright" id="ID_SUB_RACE_NOBLE_LEADERSHIP">
 		<supports>Felis</supports>
 		<description>
 			<p>With fur pure as the whitest snow, those Felis born without color are often seen as the noblest of the Felis. When of age they take up leadership roles in their clans. Once per long rest you can instill allies with a sense of vigor. Those within a 15’ range gain temporary Hit Points equal to your Charisma modifier for 8 hours.</p>
@@ -161,7 +179,7 @@
         </setters>
      	</element> 	
 
-    <element name="Firey Nature Felis." type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_FIREY_NATURE">
+    <element name="Firey Nature Felis." type="Sub Race" source="Jason Wright" id="ID_SUB_RACE_FIREY_NATURE">
 		<supports>Felis</supports>
 		<description>
 			<p>Hot tempered and quick to lash out with claws these ginger furred Felis are furious in field of battle. Increase your Strength score by 1</p>
@@ -175,7 +193,7 @@
 		</rules>
 	</element> 	
 
-    <element name="Hunters Sense Felis" type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_HUNTERS_SENSE">
+    <element name="Hunters Sense Felis" type="Sub Race" source="Jason Wright" id="ID_SUB_RACE_HUNTERS_SENSE">
 		<supports>Felis</supports>
 		<description>
 			<p>Masters of tracking, those with brown fur are destined to hunt. You gain proficiency in the Survival skill.</p>
@@ -189,7 +207,7 @@
 		</rules>
 	</element> 	
 
-    <element name="Good Fortune Felis" type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_GOOD_FORTUNE">
+    <element name="Good Fortune Felis" type="Sub Race" source="Jason Wright" id="ID_SUB_RACE_GOOD_FORTUNE">
 		<supports>Felis</supports>
 		<description>
 			<p>Calico fur is the rarest of all Felis lineages. The legends say that all of the black furred Felis’ luck went to the calico. Once per day when you roll an attack roll, ability check, or saving throw you can choose to reroll. You must accept the results of the reroll.</p>
@@ -203,7 +221,7 @@
         </setters>
 	</element> 	
 
-    <element name="Arcane Adept Felis" type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_ARCANE_ADEPT">
+    <element name="Arcane Adept Felis" type="Sub Race" source="Jason Wright" id="ID_SUB_RACE_ARCANE_ADEPT">
 		<supports>Felis</supports>
 		<description>
 			<p>Starry eyed and fur of a blue-night sky it is said that these Felis are connected to the Astral Sea. Increase your Intelligence score by 1.</p>
@@ -217,7 +235,7 @@
 		</rules>
 	</element> 	
 
-    <element name="Night Stalker Felis" type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_NIGHT_STALKER">
+    <element name="Night Stalker Felis" type="Sub Race" source="Jason Wright" id="ID_SUB_RACE_NIGHT_STALKER">
 		<supports>Felis</supports>
 		<description>
 			<p>Grey is the perfect color to blend into ones surroundings. Felis with grey fur are able to hide very easily. You gain proficency in the Stealth skill.</p>
@@ -231,7 +249,7 @@
 		</rules>
 	</element> 	
 
-    <element name="Unlucky Felis." type="Sub Race" source="D&amp;D Beyond" id="ID_SUB_RACE_UNLUCKY">
+    <element name="Unlucky Felis." type="Sub Race" source="Jason Wright" id="ID_SUB_RACE_UNLUCKY">
 		<supports>Felis</supports>
 		<description>
 			<p>Typically those born of the this lineage are of pure black fur and carry a natural unluckiness wherever they go. Once per long rest as a reaction you may cast your bad luck onto an enemy, forcing them to roll with disadvantage on one attack or ability saving throw.</p>
