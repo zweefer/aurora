@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.0.1">
+			<file name="source.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/sources.xml" />
+		</update>
+	</info>
+	<element name="zweefer" type="Source" source="zweefer" id="ID_HOMEBREW_SOURCE_ZWEEFER">
+		<description>
+			<![CDATA[<p>Various homebrew and tweaks</p>]]>
+		</description>
+		<setters>
+			<set name="abbreviation">ZFR</set>
+			<set name="url">https://www.reddit.com/r/DnDBehindTheScreen/</set>
+			<set name="author" abbreviation="ZFR" url="https://www.reddit.com/r/DnDBehindTheScreen/">Various</set>
+			<set name="homebrew">true</set>
+		</setters>
+	</element>
+</elements>
