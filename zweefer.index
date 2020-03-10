@@ -14,5 +14,9 @@
 
         <!-- Classes -->
         <file name="race-mystic-multi.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-mystic-multi.xml" />
+  
+        <!-- Sources -->
+	    	<file name="sources.xml" url="https://raw.githubusercontent.com/community-elements/elements-dndwiki/master/dndwiki/sources.xml" />
+
     </files>
 </index>
