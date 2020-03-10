@@ -5,7 +5,7 @@
 		<description>UA Mystic that allows mulitclassing - Coded by Matthias </description>
 		<author url="https://media.wizards.com/2017/dnd/downloads/UAMystic3.pdf">Wizards of the Coast</author>
 		<update version="0.0.8">
-			<file name="class-mystic.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/class-mystic.xml" />
+			<file name="class-mystic-multi.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/class-mystic-multi.xml" />
 		</update>
 	</info>
 	
