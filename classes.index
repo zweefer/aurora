@@ -7,6 +7,6 @@
 	</update>
     </info>
     <files>
-        <file name="race-mystic-multi.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/race-mystic-multi.xml" />
+        <file name="class-mystic-multi.xml" url="https://raw.githubusercontent.com/zweefer/aurora/aurora/class-mystic-multi.xml" />
     </files>
 </index>
